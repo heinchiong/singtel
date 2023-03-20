@@ -1,0 +1,50 @@
+{
+  "ErrorMessage": {
+    "required": "This field is required"
+  },
+  "FeatureSection": {
+    "bred_for": "Bred for",
+    "breed_group": "Breed group",
+    "country_code": "Country code",
+    "extraInformation": "Extra information",
+    "height": "Height",
+    "life_span": "Life span",
+    "name": "Name",
+    "noImageAvailable": "No image available",
+    "origin": "Origin",
+    "reference_image_id": "Reference image ID",
+    "image": "Image",
+    "temperament": "Temperament",
+    "weight": "Weight",
+    "topLiner": "Start your search now",
+    "title": "Dog breed search API",
+    "description": "To get started, simply type in the name of the breed you are interested in, and the search will return a variety of information such as breed history, characteristics, temperament, and physical attributes.",
+    "noResult": "No result found",
+    "search": "Search",
+    "searchLabel": "Search for a dog breed",
+    "searchPlaceholder": "Eg: Alaskan Malamute",
+    "searchResult": "Search result",
+    "tableTitle": "Dog breed list",
+    "tableDescription": "This table shows a list of dog breeds that are available in the API. Click on the breed name to view more details."
+  },
+  "HomeNavbar": {
+    "switchLanguage": "中文"
+  },
+  "HomeSection": {
+    "apiFailed": "API failed to load data",
+    "description": "This API provides feature that allows users to search for specific dog breeds and retrieve detailed information about them. Users can type in the name of the breed they are interested in, and the search will return a variety of information such as breed history, characteristics, temperament, and physical attributes.",
+    "viewNow": "View now",
+    "learnMore": "Learn more",
+    "more": "More features coming soon",
+    "stayTuned": "Stay tuned!",
+    "title": "Dog breed search API",
+    "tryAgain": "Try again"
+  },
+  "SimpleTable": {
+    "of": "of {total}",
+    "previous": "Previous",
+    "next": "Next",
+    "showing": "Showing {from} to {to} of {total} records",
+    "rowsPerPageText": "Rows per page: "
+  }
+}

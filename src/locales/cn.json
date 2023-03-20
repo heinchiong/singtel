@@ -1,0 +1,50 @@
+{
+  "ErrorMessage": {
+    "required": "此字段为必填项"
+  },
+  "FeatureSection": {
+    "bred_for": "用途",
+    "breed_group": "品种分组",
+    "country_code": "国家代码",
+    "extraInformation": "更多信息",
+    "height": "身高",
+    "life_span": "寿命",
+    "name": "名称",
+    "noImageAvailable": "无可用图片",
+    "origin": "起源",
+    "reference_image_id": "参考图片ID",
+    "image": "图片",
+    "temperament": "性格",
+    "weight": "体重",
+    "topLiner": "立即搜索",
+    "title": "狗狗品种搜索 API",
+    "description": "请输入您感兴趣的品种名称，搜索将返回各种信息，例如品种历史、特点、气质和外貌特征。",
+    "noResult": "没有找到结果",
+    "search": "搜索",
+    "searchLabel": "搜索狗狗品种",
+    "searchPlaceholder": "例如：Alaskan Malamute",
+    "searchResult": "搜索结果",
+    "tableTitle": "狗品种列表",
+    "tableDescription": "此表显示API中提供的狗品种列表。单击品种名称以查看更多详细信息。"
+  },
+  "HomeNavbar": {
+    "switchLanguage": "English"
+  },
+  "HomeSection": {
+    "apiFailed": "API 加载数据失败",
+    "description": "此 API 允许用户搜索特定的狗狗品种并检索有关它们的详细信息。用户可以输入他们感兴趣的品种名称，搜索将返回各种信息，例如品种历史、特点、气质和外貌特征。",
+    "viewNow": "立即查看",
+    "learnMore": "了解更多",
+    "more": "更多功能即将推出",
+    "stayTuned": "敬请期待!",
+    "title": "狗狗品种搜索 API",
+    "tryAgain": "重试"
+  },
+  "SimpleTable": {
+    "of": "共 {total} 条",
+    "previous": "上一页",
+    "next": "下一页",
+    "showing": "显示 {from} 至 {to} 条，共 {total} 条记录",
+    "rowsPerPageText": "每页显示行数："
+  }
+}
