@@ -52,7 +52,6 @@ const FeatureSection = ({ t }: any) => {
         setInputValue(data.inputSearch);
         setSearchResult(result);
         setApiError(false);
-        reset();
       } catch (error) {
         console.error('Error:', error);
         setApiError(true);
