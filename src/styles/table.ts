@@ -8,8 +8,7 @@ export const tableStyles = {
 		style: {
 			fontSize: '14px',
 			color: '#fff',
-			backgroundImage: 'linear-gradient(to right, #6366F1, #9B4EBC, #D53F8C)',
-			backgroundAttachment: 'fixed',
+			backgroundColor: '#9B4EBC',
 		},
 	},
 	rows: {
